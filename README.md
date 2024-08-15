@@ -61,7 +61,7 @@ The project is designed to work with the standard Iranian license plate format:
 - Three digits
 - Two digits (usually representing the region code)
 
-Example: 12ب345|67 (where | separates the region code)
+Example: 12-365|11 (where | separates the region code)
 
 ## Future Improvements
 
@@ -78,8 +78,7 @@ Please extract the plates_file.zip file and put folders 1 to 9 in the root of th
 
 ## Note: 
 This model only learns and predicts numbers and does not have the ability to predict and recognize letters yet !
-ثب
-ث
+
 ## License
 
 This project is open-source and available under the MIT License.
