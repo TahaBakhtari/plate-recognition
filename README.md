@@ -71,6 +71,15 @@ Example: 12ب345|67 (where | separates the region code)
 - Add real-time recognition capabilities for traffic monitoring
 - Incorporate Persian character recognition for the letter in the plate
 
+## Note: 
+The number plate photo folders cannot be uploaded on Gainhub due to the large number of them.
+Please extract the plates_file.zip file and put folders 1 to 9 in the root of the project itself
+
+
+## Note: 
+This model only learns and predicts numbers and does not have the ability to predict and recognize letters yet !
+ثب
+ث
 ## License
 
 This project is open-source and available under the MIT License.
